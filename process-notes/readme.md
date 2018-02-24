@@ -1,3 +1,4 @@
-# readme
+Process of My Artifact 
 
-In this folder please include copies of any note files you took during this process.
+Took pictures from  phone on artifact in the library, inputting in to PhotoScan
+
