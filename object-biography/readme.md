@@ -26,7 +26,7 @@ BIOGRAPHY
   - Is inspired by inclusivity as way of accessibility
   - Ironic that he mnetions "creative process"
   
-OTHER NOTES ABOUT BIO
+  OTHER NOTES ABOUT BIO
  -  https://www.universityaffairs.ca/news/news-article/artist-carves-two-sculptures-from-a-beloved-oak-to-honour-carleton-u/
   - Sculpture "Sailing Through Time" meant to honour READ Iniative, completed 2011
   - Inclusivity one of main themes in his sculptures
