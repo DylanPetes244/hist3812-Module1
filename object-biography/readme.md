@@ -6,7 +6,7 @@ In this readme file, you explain the context and background for your object. Thi
 Use Harvard author-date system for citations, as that works better with plain text than trying to figure out footnotes (footnotes are a hangover from an industrial model of text preparation).
 
 NAME OF OBJECT 
-Name: ("Justice")
+- Name: ("Justice")
 Description: Feminine and masculine forms in balance define a space for justice
 On loan from the artist David Fels
 
@@ -27,7 +27,7 @@ BIOGRAPHY
   - Ironic that he mnetions "creative process"
   
   OTHER NOTES ABOUT BIO
-  https://www.universityaffairs.ca/news/news-article/artist-carves-two-sculptures-from-a-beloved-oak-to-honour-carleton-u/
+ -  https://www.universityaffairs.ca/news/news-article/artist-carves-two-sculptures-from-a-beloved-oak-to-honour-carleton-u/
   - Sculpture "Sailing Through Time" meant to honour READ Iniative, completed 2011
   - Inclusivity one of main themes in his sculptures
   - Also went to World Summit on accessbility
