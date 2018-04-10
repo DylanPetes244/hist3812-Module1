@@ -1,10 +1,12 @@
 # Object Biography
 
+FROM PROF GRAHAM
 In this readme file, you explain the context and background for your object. Think of this as being rather like a wikipedia page giving the basic particulars of the object/site/building/whatever that you have modeled. It should be complete enough that I understand why your object matters, and could find more information if I want.
 
 Use Harvard author-date system for citations, as that works better with plain text than trying to figure out footnotes (footnotes are a hangover from an industrial model of text preparation).
 
-Name of Object ("Justice")
+NAME OF OBJECT 
+Name: ("Justice")
 Description: Feminine and masculine forms in balance define a space for justice
 On loan from the artist David Fels
 
@@ -12,8 +14,8 @@ Other object in library ("Water", water is a precious expression of life, which 
 
 Link: http://www.glebereport.ca/2013/08/sculptor-david-fels-revels-in-the-language-of-spirals/
 
-Biography of David Fels
-
+BIOGRAPHY  
+- Name: David Fels 
 - Did wood sculpture "Sailing Through Time" , 25th anniversary of Rick Hansen "man in motion" tour in 2012
   - Also 25th anniversary of by Carleton University to provide disabled students w resident attendance services
 - How David Fels starts sculptures:
@@ -24,6 +26,7 @@ Biography of David Fels
   - Is inspired by inclusivity as way of accessibility
   - Ironic that he mnetions "creative process"
   
+  OTHER NOTES ABOUT BIO
   https://www.universityaffairs.ca/news/news-article/artist-carves-two-sculptures-from-a-beloved-oak-to-honour-carleton-u/
   - Sculpture "Sailing Through Time" meant to honour READ Iniative, completed 2011
   - Inclusivity one of main themes in his sculptures
