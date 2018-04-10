@@ -1,4 +1,4 @@
-# Object Biography
+#Object Biography
 
 FROM PROF GRAHAM
 - In this readme file, you explain the context and background for your object. Think of this as being rather like a wikipedia page giving the basic particulars of the object/site/building/whatever that you have modeled. It should be complete enough that I understand why your object matters, and could find more information if I want.
