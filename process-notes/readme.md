@@ -16,4 +16,7 @@ Process of My Artifact  (Justice)
    - Typing commands in computer 
    - Step 2, Step 3 (On FAQ part)
    - Step 3: Finding focal length for Samsung Galaxy 8 phone 
-      - Link: https://www.slrlounge.com/samsung-galaxy-s8-camera-photography-release/ (Is this source relevant?) 
+      - Primary Camera focal length- 4.2mm (Link: https://www.devicespecifications.com/en/model/179841d3)
+   - Typing 1s in Terminal (Need to review metadata lecture)
+   -Using the cd command (Need more info about this)
+      
